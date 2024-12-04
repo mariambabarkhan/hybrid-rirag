@@ -34,7 +34,7 @@ The hybrid framework comprises the following components:
 5. **Answer Generation**:
    - Processes retrieved passages with LLAMA3 to produce coherent and regulatory-compliant answers.
 
-![Framework Architecture](images/arch_diagram.pdf)
+![Framework Architecture](images/architecture_diagram.png)
 
 ## Results
 
