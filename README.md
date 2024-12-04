@@ -1,4 +1,3 @@
-```markdown
 # A Hybrid Framework for Regulatory Information Retrieval and Question Answering
 
 ## Overview
@@ -67,5 +66,4 @@ The hybrid framework comprises the following components:
 
 ## Contact
 
-For questions or collaboration, please contact [mariamk.bscs21seecs@seecs.edu.pk](mailto:mariamk.bscs21seecs@seecs.edu.pk).
-```
+For questions or collaboration, please contact [mariamk.bscs21seecs@seecs.edu.pk](mailto:mariamk.bscs21seecs@seecs.edu.pk)
